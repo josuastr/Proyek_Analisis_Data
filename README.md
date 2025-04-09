@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ```
 streamlit run dashboard/dashboard.py
 ```
-Atau bisa dengan kunjungi website ini [Proyek Analisis Data: Bike Sharing Dataset](https://bikesharing-dashboar.streamlit.app/)
+Atau anda bisa melihat hasilnya dengan mengunjungi website ini [Proyek Analisis Data: Bike Sharing Dataset](https://bikesharing-dashboar.streamlit.app/)
 
 ## Hasil Review
 berikut merupakan penilaian dari Dicoding
