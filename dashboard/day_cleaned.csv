@@ -1,0 +1,732 @@
+tanggal,musim,bulan,hari,status_hari_kerja,cuaca,suhu,kelembaban,kecepatan_angin,penyewa_kasual,penyewa_terdaftar,total_penyewaan_sepeda
+2011-01-01,Musim Semi,Januari,Sabtu,Akhir Pekan,Berkabut/Berawan,0.344167,0.805833,0.160446,331,654,985
+2011-01-02,Musim Semi,Januari,Minggu,Akhir Pekan,Berkabut/Berawan,0.363478,0.696087,0.248539,131,670,801
+2011-01-03,Musim Semi,Januari,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.196364,0.437273,0.248309,120,1229,1349
+2011-01-04,Musim Semi,Januari,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.2,0.590435,0.160296,108,1454,1562
+2011-01-05,Musim Semi,Januari,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.226957,0.436957,0.1869,82,1518,1600
+2011-01-06,Musim Semi,Januari,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.204348,0.518261,0.0895652,88,1518,1606
+2011-01-07,Musim Semi,Januari,Jumat,Hari Kerja,Berkabut/Berawan,0.196522,0.498696,0.168726,148,1362,1510
+2011-01-08,Musim Semi,Januari,Sabtu,Akhir Pekan,Berkabut/Berawan,0.165,0.535833,0.266804,68,891,959
+2011-01-09,Musim Semi,Januari,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.138333,0.434167,0.36195,54,768,822
+2011-01-10,Musim Semi,Januari,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.150833,0.482917,0.223267,41,1280,1321
+2011-01-11,Musim Semi,Januari,Selasa,Hari Kerja,Berkabut/Berawan,0.169091,0.686364,0.122132,43,1220,1263
+2011-01-12,Musim Semi,Januari,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.172727,0.599545,0.304627,25,1137,1162
+2011-01-13,Musim Semi,Januari,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.165,0.470417,0.301,38,1368,1406
+2011-01-14,Musim Semi,Januari,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.16087,0.537826,0.126548,54,1367,1421
+2011-01-15,Musim Semi,Januari,Sabtu,Akhir Pekan,Berkabut/Berawan,0.233333,0.49875,0.157963,222,1026,1248
+2011-01-16,Musim Semi,Januari,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.231667,0.48375,0.188433,251,953,1204
+2011-01-17,Musim Semi,Januari,Senin,Akhir Pekan,Berkabut/Berawan,0.175833,0.5375,0.194017,117,883,1000
+2011-01-18,Musim Semi,Januari,Selasa,Hari Kerja,Berkabut/Berawan,0.216667,0.861667,0.146775,9,674,683
+2011-01-19,Musim Semi,Januari,Rabu,Hari Kerja,Berkabut/Berawan,0.292174,0.741739,0.208317,78,1572,1650
+2011-01-20,Musim Semi,Januari,Kamis,Hari Kerja,Berkabut/Berawan,0.261667,0.538333,0.195904,83,1844,1927
+2011-01-21,Musim Semi,Januari,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.1775,0.457083,0.353242,75,1468,1543
+2011-01-22,Musim Semi,Januari,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.0591304,0.4,0.17197,93,888,981
+2011-01-23,Musim Semi,Januari,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.0965217,0.436522,0.2466,150,836,986
+2011-01-24,Musim Semi,Januari,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.0973913,0.491739,0.15833,86,1330,1416
+2011-01-25,Musim Semi,Januari,Selasa,Hari Kerja,Berkabut/Berawan,0.223478,0.616957,0.129796,186,1799,1985
+2011-01-26,Musim Semi,Januari,Rabu,Hari Kerja,Salju Ringan/Hujan Ringan,0.2175,0.8625,0.29385,34,472,506
+2011-01-27,Musim Semi,Januari,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.195,0.6875,0.113837,15,416,431
+2011-01-28,Musim Semi,Januari,Jumat,Hari Kerja,Berkabut/Berawan,0.203478,0.793043,0.1233,38,1129,1167
+2011-01-29,Musim Semi,Januari,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.196522,0.651739,0.145365,123,975,1098
+2011-01-30,Musim Semi,Januari,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.216522,0.722174,0.0739826,140,956,1096
+2011-01-31,Musim Semi,Januari,Senin,Hari Kerja,Berkabut/Berawan,0.180833,0.60375,0.187192,42,1459,1501
+2011-02-01,Musim Semi,Februari,Selasa,Hari Kerja,Berkabut/Berawan,0.192174,0.829565,0.053213,47,1313,1360
+2011-02-02,Musim Semi,Februari,Rabu,Hari Kerja,Berkabut/Berawan,0.26,0.775417,0.264308,72,1454,1526
+2011-02-03,Musim Semi,Februari,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.186957,0.437826,0.277752,61,1489,1550
+2011-02-04,Musim Semi,Februari,Jumat,Hari Kerja,Berkabut/Berawan,0.211304,0.585217,0.127839,88,1620,1708
+2011-02-05,Musim Semi,Februari,Sabtu,Akhir Pekan,Berkabut/Berawan,0.233333,0.929167,0.161079,100,905,1005
+2011-02-06,Musim Semi,Februari,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.285833,0.568333,0.1418,354,1269,1623
+2011-02-07,Musim Semi,Februari,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.271667,0.738333,0.0454083,120,1592,1712
+2011-02-08,Musim Semi,Februari,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.220833,0.537917,0.36195,64,1466,1530
+2011-02-09,Musim Semi,Februari,Rabu,Hari Kerja,Berkabut/Berawan,0.134783,0.494783,0.188839,53,1552,1605
+2011-02-10,Musim Semi,Februari,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.144348,0.437391,0.221935,47,1491,1538
+2011-02-11,Musim Semi,Februari,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.189091,0.506364,0.10855,149,1597,1746
+2011-02-12,Musim Semi,Februari,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.2225,0.544167,0.203367,288,1184,1472
+2011-02-13,Musim Semi,Februari,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.316522,0.457391,0.260883,397,1192,1589
+2011-02-14,Musim Semi,Februari,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.415,0.375833,0.417908,208,1705,1913
+2011-02-15,Musim Semi,Februari,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.266087,0.314348,0.291374,140,1675,1815
+2011-02-16,Musim Semi,Februari,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.318261,0.423478,0.251791,218,1897,2115
+2011-02-17,Musim Semi,Februari,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.435833,0.505,0.230104,259,2216,2475
+2011-02-18,Musim Semi,Februari,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.521667,0.516667,0.264925,579,2348,2927
+2011-02-19,Musim Semi,Februari,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.399167,0.187917,0.507463,532,1103,1635
+2011-02-20,Musim Semi,Februari,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.285217,0.407826,0.223235,639,1173,1812
+2011-02-21,Musim Semi,Februari,Senin,Akhir Pekan,Berkabut/Berawan,0.303333,0.605,0.307846,195,912,1107
+2011-02-22,Musim Semi,Februari,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.182222,0.577778,0.195683,74,1376,1450
+2011-02-23,Musim Semi,Februari,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.221739,0.423043,0.094113,139,1778,1917
+2011-02-24,Musim Semi,Februari,Kamis,Hari Kerja,Berkabut/Berawan,0.295652,0.697391,0.250496,100,1707,1807
+2011-02-25,Musim Semi,Februari,Jumat,Hari Kerja,Berkabut/Berawan,0.364348,0.712174,0.346539,120,1341,1461
+2011-02-26,Musim Semi,Februari,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.2825,0.537917,0.186571,424,1545,1969
+2011-02-27,Musim Semi,Februari,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.343478,0.68,0.125248,694,1708,2402
+2011-02-28,Musim Semi,Februari,Senin,Hari Kerja,Berkabut/Berawan,0.407273,0.876364,0.289686,81,1365,1446
+2011-03-01,Musim Semi,Maret,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.266667,0.535,0.216425,137,1714,1851
+2011-03-02,Musim Semi,Maret,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.335,0.449583,0.307833,231,1903,2134
+2011-03-03,Musim Semi,Maret,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.198333,0.318333,0.225754,123,1562,1685
+2011-03-04,Musim Semi,Maret,Jumat,Hari Kerja,Berkabut/Berawan,0.261667,0.610417,0.203346,214,1730,1944
+2011-03-05,Musim Semi,Maret,Sabtu,Akhir Pekan,Berkabut/Berawan,0.384167,0.789167,0.251871,640,1437,2077
+2011-03-06,Musim Semi,Maret,Minggu,Akhir Pekan,Berkabut/Berawan,0.376522,0.948261,0.343287,114,491,605
+2011-03-07,Musim Semi,Maret,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.261739,0.551304,0.341352,244,1628,1872
+2011-03-08,Musim Semi,Maret,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.2925,0.420833,0.12065,316,1817,2133
+2011-03-09,Musim Semi,Maret,Rabu,Hari Kerja,Berkabut/Berawan,0.295833,0.775417,0.22015,191,1700,1891
+2011-03-10,Musim Semi,Maret,Kamis,Hari Kerja,Salju Ringan/Hujan Ringan,0.389091,0.0,0.261877,46,577,623
+2011-03-11,Musim Semi,Maret,Jumat,Hari Kerja,Berkabut/Berawan,0.316522,0.649565,0.23297,247,1730,1977
+2011-03-12,Musim Semi,Maret,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.329167,0.594583,0.220775,724,1408,2132
+2011-03-13,Musim Semi,Maret,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.384348,0.527391,0.270604,982,1435,2417
+2011-03-14,Musim Semi,Maret,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.325217,0.496957,0.136926,359,1687,2046
+2011-03-15,Musim Semi,Maret,Selasa,Hari Kerja,Berkabut/Berawan,0.317391,0.655652,0.184309,289,1767,2056
+2011-03-16,Musim Semi,Maret,Rabu,Hari Kerja,Berkabut/Berawan,0.365217,0.776522,0.203117,321,1871,2192
+2011-03-17,Musim Semi,Maret,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.415,0.602917,0.209579,424,2320,2744
+2011-03-18,Musim Semi,Maret,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.54,0.525217,0.231017,884,2355,3239
+2011-03-19,Musim Semi,Maret,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.4725,0.379167,0.368167,1424,1693,3117
+2011-03-20,Musim Semi,Maret,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.3325,0.47375,0.207721,1047,1424,2471
+2011-03-21,Musim Panas,Maret,Senin,Hari Kerja,Berkabut/Berawan,0.430435,0.737391,0.288783,401,1676,2077
+2011-03-22,Musim Panas,Maret,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.441667,0.624583,0.22575,460,2243,2703
+2011-03-23,Musim Panas,Maret,Rabu,Hari Kerja,Berkabut/Berawan,0.346957,0.839565,0.234261,203,1918,2121
+2011-03-24,Musim Panas,Maret,Kamis,Hari Kerja,Berkabut/Berawan,0.285,0.805833,0.243787,166,1699,1865
+2011-03-25,Musim Panas,Maret,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.264167,0.495,0.230725,300,1910,2210
+2011-03-26,Musim Panas,Maret,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.265833,0.394167,0.209571,981,1515,2496
+2011-03-27,Musim Panas,Maret,Minggu,Akhir Pekan,Berkabut/Berawan,0.253043,0.493913,0.1843,472,1221,1693
+2011-03-28,Musim Panas,Maret,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.264348,0.302174,0.212204,222,1806,2028
+2011-03-29,Musim Panas,Maret,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.3025,0.314167,0.226996,317,2108,2425
+2011-03-30,Musim Panas,Maret,Rabu,Hari Kerja,Berkabut/Berawan,0.3,0.646667,0.172888,168,1368,1536
+2011-03-31,Musim Panas,Maret,Kamis,Hari Kerja,Salju Ringan/Hujan Ringan,0.268333,0.918333,0.217646,179,1506,1685
+2011-04-01,Musim Panas,April,Jumat,Hari Kerja,Berkabut/Berawan,0.3,0.68625,0.258708,307,1920,2227
+2011-04-02,Musim Panas,April,Sabtu,Akhir Pekan,Berkabut/Berawan,0.315,0.65375,0.197146,898,1354,2252
+2011-04-03,Musim Panas,April,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.378333,0.48,0.182213,1651,1598,3249
+2011-04-04,Musim Panas,April,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.573333,0.42625,0.385571,734,2381,3115
+2011-04-05,Musim Panas,April,Selasa,Hari Kerja,Berkabut/Berawan,0.414167,0.642083,0.388067,167,1628,1795
+2011-04-06,Musim Panas,April,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.390833,0.470833,0.263063,413,2395,2808
+2011-04-07,Musim Panas,April,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.4375,0.602917,0.162312,571,2570,3141
+2011-04-08,Musim Panas,April,Jumat,Hari Kerja,Berkabut/Berawan,0.335833,0.83625,0.226992,172,1299,1471
+2011-04-09,Musim Panas,April,Sabtu,Akhir Pekan,Berkabut/Berawan,0.3425,0.8775,0.133083,879,1576,2455
+2011-04-10,Musim Panas,April,Minggu,Akhir Pekan,Berkabut/Berawan,0.426667,0.8575,0.146767,1188,1707,2895
+2011-04-11,Musim Panas,April,Senin,Hari Kerja,Berkabut/Berawan,0.595652,0.716956,0.324474,855,2493,3348
+2011-04-12,Musim Panas,April,Selasa,Hari Kerja,Berkabut/Berawan,0.5025,0.739167,0.274879,257,1777,2034
+2011-04-13,Musim Panas,April,Rabu,Hari Kerja,Berkabut/Berawan,0.4125,0.819167,0.250617,209,1953,2162
+2011-04-14,Musim Panas,April,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.4675,0.540417,0.1107,529,2738,3267
+2011-04-15,Musim Panas,April,Jumat,Akhir Pekan,Cerah/Sedikit Berawan,0.446667,0.67125,0.226375,642,2484,3126
+2011-04-16,Musim Panas,April,Sabtu,Akhir Pekan,Salju Ringan/Hujan Ringan,0.430833,0.888333,0.340808,121,674,795
+2011-04-17,Musim Panas,April,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.456667,0.479583,0.303496,1558,2186,3744
+2011-04-18,Musim Panas,April,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.5125,0.5425,0.163567,669,2760,3429
+2011-04-19,Musim Panas,April,Selasa,Hari Kerja,Berkabut/Berawan,0.505833,0.665833,0.157971,409,2795,3204
+2011-04-20,Musim Panas,April,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.595,0.614167,0.241925,613,3331,3944
+2011-04-21,Musim Panas,April,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.459167,0.407083,0.325258,745,3444,4189
+2011-04-22,Musim Panas,April,Jumat,Hari Kerja,Berkabut/Berawan,0.336667,0.729583,0.219521,177,1506,1683
+2011-04-23,Musim Panas,April,Sabtu,Akhir Pekan,Berkabut/Berawan,0.46,0.887917,0.230725,1462,2574,4036
+2011-04-24,Musim Panas,April,Minggu,Akhir Pekan,Berkabut/Berawan,0.581667,0.810833,0.192175,1710,2481,4191
+2011-04-25,Musim Panas,April,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.606667,0.776667,0.185333,773,3300,4073
+2011-04-26,Musim Panas,April,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.631667,0.729167,0.3265,678,3722,4400
+2011-04-27,Musim Panas,April,Rabu,Hari Kerja,Berkabut/Berawan,0.62,0.835417,0.3122,547,3325,3872
+2011-04-28,Musim Panas,April,Kamis,Hari Kerja,Berkabut/Berawan,0.6175,0.700833,0.320908,569,3489,4058
+2011-04-29,Musim Panas,April,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.51,0.457083,0.240063,878,3717,4595
+2011-04-30,Musim Panas,April,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.4725,0.503333,0.235075,1965,3347,5312
+2011-05-01,Musim Panas,Mei,Minggu,Akhir Pekan,Berkabut/Berawan,0.451667,0.762083,0.106354,1138,2213,3351
+2011-05-02,Musim Panas,Mei,Senin,Hari Kerja,Berkabut/Berawan,0.549167,0.73,0.183454,847,3554,4401
+2011-05-03,Musim Panas,Mei,Selasa,Hari Kerja,Berkabut/Berawan,0.616667,0.697083,0.342667,603,3848,4451
+2011-05-04,Musim Panas,Mei,Rabu,Hari Kerja,Berkabut/Berawan,0.414167,0.737083,0.328996,255,2378,2633
+2011-05-05,Musim Panas,Mei,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.459167,0.444167,0.295392,614,3819,4433
+2011-05-06,Musim Panas,Mei,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.479167,0.59,0.228246,894,3714,4608
+2011-05-07,Musim Panas,Mei,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.52,0.54125,0.16045,1612,3102,4714
+2011-05-08,Musim Panas,Mei,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.528333,0.631667,0.0746375,1401,2932,4333
+2011-05-09,Musim Panas,Mei,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.5325,0.58875,0.176,664,3698,4362
+2011-05-10,Musim Panas,Mei,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.5325,0.489167,0.115671,694,4109,4803
+2011-05-11,Musim Panas,Mei,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.5425,0.632917,0.120642,550,3632,4182
+2011-05-12,Musim Panas,Mei,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.535,0.7475,0.189667,695,4169,4864
+2011-05-13,Musim Panas,Mei,Jumat,Hari Kerja,Berkabut/Berawan,0.5125,0.863333,0.179725,692,3413,4105
+2011-05-14,Musim Panas,Mei,Sabtu,Akhir Pekan,Berkabut/Berawan,0.520833,0.9225,0.13495,902,2507,3409
+2011-05-15,Musim Panas,Mei,Minggu,Akhir Pekan,Berkabut/Berawan,0.5625,0.867083,0.152979,1582,2971,4553
+2011-05-16,Musim Panas,Mei,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.5775,0.787917,0.126871,773,3185,3958
+2011-05-17,Musim Panas,Mei,Selasa,Hari Kerja,Berkabut/Berawan,0.561667,0.837917,0.277354,678,3445,4123
+2011-05-18,Musim Panas,Mei,Rabu,Hari Kerja,Berkabut/Berawan,0.55,0.87,0.201492,536,3319,3855
+2011-05-19,Musim Panas,Mei,Kamis,Hari Kerja,Berkabut/Berawan,0.530833,0.829583,0.108213,735,3840,4575
+2011-05-20,Musim Panas,Mei,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.536667,0.719583,0.125013,909,4008,4917
+2011-05-21,Musim Panas,Mei,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.6025,0.626667,0.12065,2258,3547,5805
+2011-05-22,Musim Panas,Mei,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.604167,0.749583,0.148008,1576,3084,4660
+2011-05-23,Musim Panas,Mei,Senin,Hari Kerja,Berkabut/Berawan,0.631667,0.81,0.233842,836,3438,4274
+2011-05-24,Musim Panas,Mei,Selasa,Hari Kerja,Berkabut/Berawan,0.66,0.740833,0.207092,659,3833,4492
+2011-05-25,Musim Panas,Mei,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.660833,0.69625,0.154233,740,4238,4978
+2011-05-26,Musim Panas,Mei,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.708333,0.6775,0.199642,758,3919,4677
+2011-05-27,Musim Panas,Mei,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.681667,0.65375,0.240679,871,3808,4679
+2011-05-28,Musim Panas,Mei,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.655833,0.729583,0.230092,2001,2757,4758
+2011-05-29,Musim Panas,Mei,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.6675,0.81875,0.213938,2355,2433,4788
+2011-05-30,Musim Panas,Mei,Senin,Akhir Pekan,Cerah/Sedikit Berawan,0.733333,0.685,0.131225,1549,2549,4098
+2011-05-31,Musim Panas,Mei,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.775,0.636667,0.111329,673,3309,3982
+2011-06-01,Musim Panas,Juni,Rabu,Hari Kerja,Berkabut/Berawan,0.764167,0.677083,0.207092,513,3461,3974
+2011-06-02,Musim Panas,Juni,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.715,0.305,0.292287,736,4232,4968
+2011-06-03,Musim Panas,Juni,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.62,0.354167,0.253121,898,4414,5312
+2011-06-04,Musim Panas,Juni,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.635,0.45625,0.123142,1869,3473,5342
+2011-06-05,Musim Panas,Juni,Minggu,Akhir Pekan,Berkabut/Berawan,0.648333,0.6525,0.138692,1685,3221,4906
+2011-06-06,Musim Panas,Juni,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.678333,0.6,0.121896,673,3875,4548
+2011-06-07,Musim Panas,Juni,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.7075,0.597917,0.187808,763,4070,4833
+2011-06-08,Musim Panas,Juni,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.775833,0.622083,0.136817,676,3725,4401
+2011-06-09,Musim Panas,Juni,Kamis,Hari Kerja,Berkabut/Berawan,0.808333,0.568333,0.149883,563,3352,3915
+2011-06-10,Musim Panas,Juni,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.755,0.605,0.140554,815,3771,4586
+2011-06-11,Musim Panas,Juni,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.725,0.654583,0.15485,1729,3237,4966
+2011-06-12,Musim Panas,Juni,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.6925,0.747917,0.163567,1467,2993,4460
+2011-06-13,Musim Panas,Juni,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.635,0.494583,0.30535,863,4157,5020
+2011-06-14,Musim Panas,Juni,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.604167,0.507083,0.269283,727,4164,4891
+2011-06-15,Musim Panas,Juni,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.626667,0.471667,0.167912,769,4411,5180
+2011-06-16,Musim Panas,Juni,Kamis,Hari Kerja,Berkabut/Berawan,0.628333,0.688333,0.206471,545,3222,3767
+2011-06-17,Musim Panas,Juni,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.649167,0.735833,0.143029,863,3981,4844
+2011-06-18,Musim Panas,Juni,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.696667,0.670417,0.119408,1807,3312,5119
+2011-06-19,Musim Panas,Juni,Minggu,Akhir Pekan,Berkabut/Berawan,0.699167,0.666667,0.102,1639,3105,4744
+2011-06-20,Musim Panas,Juni,Senin,Hari Kerja,Berkabut/Berawan,0.635,0.74625,0.155475,699,3311,4010
+2011-06-21,Musim Gugur,Juni,Selasa,Hari Kerja,Berkabut/Berawan,0.680833,0.770417,0.171025,774,4061,4835
+2011-06-22,Musim Gugur,Juni,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.733333,0.7075,0.172262,661,3846,4507
+2011-06-23,Musim Gugur,Juni,Kamis,Hari Kerja,Berkabut/Berawan,0.728333,0.703333,0.238804,746,4044,4790
+2011-06-24,Musim Gugur,Juni,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.724167,0.573333,0.222025,969,4022,4991
+2011-06-25,Musim Gugur,Juni,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.695,0.483333,0.209571,1782,3420,5202
+2011-06-26,Musim Gugur,Juni,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.68,0.513333,0.0945333,1920,3385,5305
+2011-06-27,Musim Gugur,Juni,Senin,Hari Kerja,Berkabut/Berawan,0.6825,0.658333,0.107588,854,3854,4708
+2011-06-28,Musim Gugur,Juni,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.744167,0.634167,0.144283,732,3916,4648
+2011-06-29,Musim Gugur,Juni,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.728333,0.497917,0.261821,848,4377,5225
+2011-06-30,Musim Gugur,Juni,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.696667,0.434167,0.185312,1027,4488,5515
+2011-07-01,Musim Gugur,Juli,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.7225,0.39625,0.102608,1246,4116,5362
+2011-07-02,Musim Gugur,Juli,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.738333,0.444583,0.115062,2204,2915,5119
+2011-07-03,Musim Gugur,Juli,Minggu,Akhir Pekan,Berkabut/Berawan,0.716667,0.6825,0.228858,2282,2367,4649
+2011-07-04,Musim Gugur,Juli,Senin,Akhir Pekan,Berkabut/Berawan,0.726667,0.637917,0.0814792,3065,2978,6043
+2011-07-05,Musim Gugur,Juli,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.746667,0.590417,0.126258,1031,3634,4665
+2011-07-06,Musim Gugur,Juli,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.72,0.743333,0.149883,784,3845,4629
+2011-07-07,Musim Gugur,Juli,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.75,0.65125,0.1592,754,3838,4592
+2011-07-08,Musim Gugur,Juli,Jumat,Hari Kerja,Berkabut/Berawan,0.709167,0.757917,0.225129,692,3348,4040
+2011-07-09,Musim Gugur,Juli,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.733333,0.609167,0.167912,1988,3348,5336
+2011-07-10,Musim Gugur,Juli,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.7475,0.578333,0.183471,1743,3138,4881
+2011-07-11,Musim Gugur,Juli,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.7625,0.635833,0.282337,723,3363,4086
+2011-07-12,Musim Gugur,Juli,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.794167,0.559167,0.200254,662,3596,4258
+2011-07-13,Musim Gugur,Juli,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.746667,0.631667,0.146133,748,3594,4342
+2011-07-14,Musim Gugur,Juli,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.680833,0.47625,0.240667,888,4196,5084
+2011-07-15,Musim Gugur,Juli,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.663333,0.59125,0.182833,1318,4220,5538
+2011-07-16,Musim Gugur,Juli,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.686667,0.585,0.208342,2418,3505,5923
+2011-07-17,Musim Gugur,Juli,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.719167,0.604167,0.245033,2006,3296,5302
+2011-07-18,Musim Gugur,Juli,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.746667,0.65125,0.215804,841,3617,4458
+2011-07-19,Musim Gugur,Juli,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.776667,0.650417,0.1306,752,3789,4541
+2011-07-20,Musim Gugur,Juli,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.768333,0.707083,0.113817,644,3688,4332
+2011-07-21,Musim Gugur,Juli,Kamis,Hari Kerja,Berkabut/Berawan,0.815,0.69125,0.222021,632,3152,3784
+2011-07-22,Musim Gugur,Juli,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.848333,0.580417,0.1331,562,2825,3387
+2011-07-23,Musim Gugur,Juli,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.849167,0.5,0.131221,987,2298,3285
+2011-07-24,Musim Gugur,Juli,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.83,0.550833,0.169171,1050,2556,3606
+2011-07-25,Musim Gugur,Juli,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.743333,0.757083,0.0908083,568,3272,3840
+2011-07-26,Musim Gugur,Juli,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.771667,0.540833,0.200258,750,3840,4590
+2011-07-27,Musim Gugur,Juli,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.775,0.402917,0.183463,755,3901,4656
+2011-07-28,Musim Gugur,Juli,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.779167,0.583333,0.178479,606,3784,4390
+2011-07-29,Musim Gugur,Juli,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.838333,0.5425,0.174138,670,3176,3846
+2011-07-30,Musim Gugur,Juli,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.804167,0.465833,0.168537,1559,2916,4475
+2011-07-31,Musim Gugur,Juli,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.805833,0.480833,0.164813,1524,2778,4302
+2011-08-01,Musim Gugur,Agustus,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.771667,0.550833,0.156717,729,3537,4266
+2011-08-02,Musim Gugur,Agustus,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.783333,0.49125,0.20585,801,4044,4845
+2011-08-03,Musim Gugur,Agustus,Rabu,Hari Kerja,Berkabut/Berawan,0.731667,0.6575,0.135583,467,3107,3574
+2011-08-04,Musim Gugur,Agustus,Kamis,Hari Kerja,Berkabut/Berawan,0.71,0.7575,0.19715,799,3777,4576
+2011-08-05,Musim Gugur,Agustus,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.710833,0.630833,0.184696,1023,3843,4866
+2011-08-06,Musim Gugur,Agustus,Sabtu,Akhir Pekan,Berkabut/Berawan,0.716667,0.755,0.22825,1521,2773,4294
+2011-08-07,Musim Gugur,Agustus,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.7425,0.752917,0.201487,1298,2487,3785
+2011-08-08,Musim Gugur,Agustus,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.765,0.592083,0.192175,846,3480,4326
+2011-08-09,Musim Gugur,Agustus,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.775,0.570417,0.151121,907,3695,4602
+2011-08-10,Musim Gugur,Agustus,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.766667,0.424167,0.200258,884,3896,4780
+2011-08-11,Musim Gugur,Agustus,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.7175,0.42375,0.164796,812,3980,4792
+2011-08-12,Musim Gugur,Agustus,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.708333,0.415,0.125621,1051,3854,4905
+2011-08-13,Musim Gugur,Agustus,Sabtu,Akhir Pekan,Berkabut/Berawan,0.685833,0.729583,0.211454,1504,2646,4150
+2011-08-14,Musim Gugur,Agustus,Minggu,Akhir Pekan,Berkabut/Berawan,0.676667,0.8175,0.222633,1338,2482,3820
+2011-08-15,Musim Gugur,Agustus,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.665833,0.712083,0.208954,775,3563,4338
+2011-08-16,Musim Gugur,Agustus,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.700833,0.578333,0.236329,721,4004,4725
+2011-08-17,Musim Gugur,Agustus,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.723333,0.575417,0.143667,668,4026,4694
+2011-08-18,Musim Gugur,Agustus,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.711667,0.654583,0.233208,639,3166,3805
+2011-08-19,Musim Gugur,Agustus,Jumat,Hari Kerja,Berkabut/Berawan,0.685,0.722917,0.139308,797,3356,4153
+2011-08-20,Musim Gugur,Agustus,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.6975,0.674167,0.104467,1914,3277,5191
+2011-08-21,Musim Gugur,Agustus,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.710833,0.77,0.248754,1249,2624,3873
+2011-08-22,Musim Gugur,Agustus,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.691667,0.47,0.27675,833,3925,4758
+2011-08-23,Musim Gugur,Agustus,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.640833,0.455417,0.146763,1281,4614,5895
+2011-08-24,Musim Gugur,Agustus,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.673333,0.605,0.253108,949,4181,5130
+2011-08-25,Musim Gugur,Agustus,Kamis,Hari Kerja,Berkabut/Berawan,0.684167,0.771667,0.210833,435,3107,3542
+2011-08-26,Musim Gugur,Agustus,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.7,0.76125,0.0839625,768,3893,4661
+2011-08-27,Musim Gugur,Agustus,Sabtu,Akhir Pekan,Berkabut/Berawan,0.68,0.85,0.375617,226,889,1115
+2011-08-28,Musim Gugur,Agustus,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.707059,0.561765,0.304659,1415,2919,4334
+2011-08-29,Musim Gugur,Agustus,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.636667,0.554583,0.159825,729,3905,4634
+2011-08-30,Musim Gugur,Agustus,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.639167,0.548333,0.125008,775,4429,5204
+2011-08-31,Musim Gugur,Agustus,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.656667,0.597917,0.0833333,688,4370,5058
+2011-09-01,Musim Gugur,September,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.655,0.639167,0.141796,783,4332,5115
+2011-09-02,Musim Gugur,September,Jumat,Hari Kerja,Berkabut/Berawan,0.643333,0.727083,0.139929,875,3852,4727
+2011-09-03,Musim Gugur,September,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.669167,0.716667,0.185325,1935,2549,4484
+2011-09-04,Musim Gugur,September,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.709167,0.742083,0.206467,2521,2419,4940
+2011-09-05,Musim Gugur,September,Senin,Akhir Pekan,Berkabut/Berawan,0.673333,0.790417,0.212696,1236,2115,3351
+2011-09-06,Musim Gugur,September,Selasa,Hari Kerja,Salju Ringan/Hujan Ringan,0.54,0.886957,0.343943,204,2506,2710
+2011-09-07,Musim Gugur,September,Rabu,Hari Kerja,Salju Ringan/Hujan Ringan,0.599167,0.917083,0.0970208,118,1878,1996
+2011-09-08,Musim Gugur,September,Kamis,Hari Kerja,Salju Ringan/Hujan Ringan,0.633913,0.939565,0.192748,153,1689,1842
+2011-09-09,Musim Gugur,September,Jumat,Hari Kerja,Berkabut/Berawan,0.65,0.897917,0.124379,417,3127,3544
+2011-09-10,Musim Gugur,September,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.66,0.75375,0.153608,1750,3595,5345
+2011-09-11,Musim Gugur,September,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.653333,0.71375,0.115054,1633,3413,5046
+2011-09-12,Musim Gugur,September,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.644348,0.692174,0.088913,690,4023,4713
+2011-09-13,Musim Gugur,September,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.650833,0.7125,0.141804,701,4062,4763
+2011-09-14,Musim Gugur,September,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.673333,0.697083,0.1673,647,4138,4785
+2011-09-15,Musim Gugur,September,Kamis,Hari Kerja,Berkabut/Berawan,0.5775,0.709167,0.271146,428,3231,3659
+2011-09-16,Musim Gugur,September,Jumat,Hari Kerja,Berkabut/Berawan,0.469167,0.590417,0.164183,742,4018,4760
+2011-09-17,Musim Gugur,September,Sabtu,Akhir Pekan,Berkabut/Berawan,0.491667,0.718333,0.189675,1434,3077,4511
+2011-09-18,Musim Gugur,September,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.5075,0.695,0.178483,1353,2921,4274
+2011-09-19,Musim Gugur,September,Senin,Hari Kerja,Berkabut/Berawan,0.549167,0.69,0.151742,691,3848,4539
+2011-09-20,Musim Gugur,September,Selasa,Hari Kerja,Berkabut/Berawan,0.561667,0.88125,0.134954,438,3203,3641
+2011-09-21,Musim Gugur,September,Rabu,Hari Kerja,Berkabut/Berawan,0.595,0.9,0.0964042,539,3813,4352
+2011-09-22,Musim Gugur,September,Kamis,Hari Kerja,Berkabut/Berawan,0.628333,0.902083,0.128125,555,4240,4795
+2011-09-23,Musim Dingin,September,Jumat,Hari Kerja,Berkabut/Berawan,0.609167,0.9725,0.0783667,258,2137,2395
+2011-09-24,Musim Dingin,September,Sabtu,Akhir Pekan,Berkabut/Berawan,0.606667,0.8625,0.0783833,1776,3647,5423
+2011-09-25,Musim Dingin,September,Minggu,Akhir Pekan,Berkabut/Berawan,0.634167,0.845,0.0503792,1544,3466,5010
+2011-09-26,Musim Dingin,September,Senin,Hari Kerja,Berkabut/Berawan,0.649167,0.848333,0.1107,684,3946,4630
+2011-09-27,Musim Dingin,September,Selasa,Hari Kerja,Berkabut/Berawan,0.636667,0.885417,0.118171,477,3643,4120
+2011-09-28,Musim Dingin,September,Rabu,Hari Kerja,Berkabut/Berawan,0.635,0.84875,0.148629,480,3427,3907
+2011-09-29,Musim Dingin,September,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.616667,0.699167,0.172883,653,4186,4839
+2011-09-30,Musim Dingin,September,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.564167,0.6475,0.206475,830,4372,5202
+2011-10-01,Musim Dingin,Oktober,Sabtu,Akhir Pekan,Berkabut/Berawan,0.41,0.75375,0.292296,480,1949,2429
+2011-10-02,Musim Dingin,Oktober,Minggu,Akhir Pekan,Berkabut/Berawan,0.356667,0.791667,0.222013,616,2302,2918
+2011-10-03,Musim Dingin,Oktober,Senin,Hari Kerja,Berkabut/Berawan,0.384167,0.760833,0.0833458,330,3240,3570
+2011-10-04,Musim Dingin,Oktober,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.484167,0.71,0.205854,486,3970,4456
+2011-10-05,Musim Dingin,Oktober,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.538333,0.647917,0.17725,559,4267,4826
+2011-10-06,Musim Dingin,Oktober,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.494167,0.620833,0.134954,639,4126,4765
+2011-10-07,Musim Dingin,Oktober,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.510833,0.684167,0.0223917,949,4036,4985
+2011-10-08,Musim Dingin,Oktober,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.521667,0.70125,0.0454042,2235,3174,5409
+2011-10-09,Musim Dingin,Oktober,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.540833,0.7275,0.06345,2397,3114,5511
+2011-10-10,Musim Dingin,Oktober,Senin,Akhir Pekan,Cerah/Sedikit Berawan,0.570833,0.73375,0.0423042,1514,3603,5117
+2011-10-11,Musim Dingin,Oktober,Selasa,Hari Kerja,Berkabut/Berawan,0.566667,0.80875,0.143042,667,3896,4563
+2011-10-12,Musim Dingin,Oktober,Rabu,Hari Kerja,Salju Ringan/Hujan Ringan,0.543333,0.90625,0.24815,217,2199,2416
+2011-10-13,Musim Dingin,Oktober,Kamis,Hari Kerja,Berkabut/Berawan,0.589167,0.896667,0.141787,290,2623,2913
+2011-10-14,Musim Dingin,Oktober,Jumat,Hari Kerja,Berkabut/Berawan,0.550833,0.71625,0.223883,529,3115,3644
+2011-10-15,Musim Dingin,Oktober,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.506667,0.483333,0.258083,1899,3318,5217
+2011-10-16,Musim Dingin,Oktober,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.511667,0.486667,0.281717,1748,3293,5041
+2011-10-17,Musim Dingin,Oktober,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.534167,0.579583,0.175379,713,3857,4570
+2011-10-18,Musim Dingin,Oktober,Selasa,Hari Kerja,Berkabut/Berawan,0.5325,0.701667,0.110087,637,4111,4748
+2011-10-19,Musim Dingin,Oktober,Rabu,Hari Kerja,Salju Ringan/Hujan Ringan,0.541739,0.895217,0.243339,254,2170,2424
+2011-10-20,Musim Dingin,Oktober,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.475833,0.63625,0.422275,471,3724,4195
+2011-10-21,Musim Dingin,Oktober,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.4275,0.574167,0.221396,676,3628,4304
+2011-10-22,Musim Dingin,Oktober,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.4225,0.629167,0.0926667,1499,2809,4308
+2011-10-23,Musim Dingin,Oktober,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.421667,0.74125,0.0995125,1619,2762,4381
+2011-10-24,Musim Dingin,Oktober,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.463333,0.772083,0.118792,699,3488,4187
+2011-10-25,Musim Dingin,Oktober,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.471667,0.622917,0.166658,695,3992,4687
+2011-10-26,Musim Dingin,Oktober,Rabu,Hari Kerja,Berkabut/Berawan,0.484167,0.720417,0.148642,404,3490,3894
+2011-10-27,Musim Dingin,Oktober,Kamis,Hari Kerja,Berkabut/Berawan,0.47,0.812917,0.197763,240,2419,2659
+2011-10-28,Musim Dingin,Oktober,Jumat,Hari Kerja,Berkabut/Berawan,0.330833,0.585833,0.229479,456,3291,3747
+2011-10-29,Musim Dingin,Oktober,Sabtu,Akhir Pekan,Salju Ringan/Hujan Ringan,0.254167,0.8825,0.351371,57,570,627
+2011-10-30,Musim Dingin,Oktober,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.319167,0.62375,0.176617,885,2446,3331
+2011-10-31,Musim Dingin,Oktober,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.34,0.703333,0.10635,362,3307,3669
+2011-11-01,Musim Dingin,November,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.400833,0.68375,0.135571,410,3658,4068
+2011-11-02,Musim Dingin,November,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.3775,0.71875,0.0820917,370,3816,4186
+2011-11-03,Musim Dingin,November,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.408333,0.702083,0.136817,318,3656,3974
+2011-11-04,Musim Dingin,November,Jumat,Hari Kerja,Berkabut/Berawan,0.403333,0.6225,0.271779,470,3576,4046
+2011-11-05,Musim Dingin,November,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.326667,0.519167,0.189062,1156,2770,3926
+2011-11-06,Musim Dingin,November,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.348333,0.734583,0.0920542,952,2697,3649
+2011-11-07,Musim Dingin,November,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.395,0.75875,0.057225,373,3662,4035
+2011-11-08,Musim Dingin,November,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.408333,0.721667,0.0690375,376,3829,4205
+2011-11-09,Musim Dingin,November,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.4,0.758333,0.0621958,305,3804,4109
+2011-11-10,Musim Dingin,November,Kamis,Hari Kerja,Berkabut/Berawan,0.38,0.813333,0.189067,190,2743,2933
+2011-11-11,Musim Dingin,November,Jumat,Akhir Pekan,Cerah/Sedikit Berawan,0.324167,0.44625,0.314675,440,2928,3368
+2011-11-12,Musim Dingin,November,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.356667,0.552917,0.212062,1275,2792,4067
+2011-11-13,Musim Dingin,November,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.440833,0.458333,0.281721,1004,2713,3717
+2011-11-14,Musim Dingin,November,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.53,0.587083,0.306596,595,3891,4486
+2011-11-15,Musim Dingin,November,Selasa,Hari Kerja,Berkabut/Berawan,0.53,0.68875,0.199633,449,3746,4195
+2011-11-16,Musim Dingin,November,Rabu,Hari Kerja,Salju Ringan/Hujan Ringan,0.456667,0.93,0.136829,145,1672,1817
+2011-11-17,Musim Dingin,November,Kamis,Hari Kerja,Berkabut/Berawan,0.341667,0.575833,0.305362,139,2914,3053
+2011-11-18,Musim Dingin,November,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.274167,0.41,0.168533,245,3147,3392
+2011-11-19,Musim Dingin,November,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.329167,0.502083,0.224496,943,2720,3663
+2011-11-20,Musim Dingin,November,Minggu,Akhir Pekan,Berkabut/Berawan,0.463333,0.684583,0.18595,787,2733,3520
+2011-11-21,Musim Dingin,November,Senin,Hari Kerja,Salju Ringan/Hujan Ringan,0.4475,0.91,0.138054,220,2545,2765
+2011-11-22,Musim Dingin,November,Selasa,Hari Kerja,Salju Ringan/Hujan Ringan,0.416667,0.9625,0.118792,69,1538,1607
+2011-11-23,Musim Dingin,November,Rabu,Hari Kerja,Berkabut/Berawan,0.440833,0.757917,0.335825,112,2454,2566
+2011-11-24,Musim Dingin,November,Kamis,Akhir Pekan,Cerah/Sedikit Berawan,0.373333,0.549167,0.167304,560,935,1495
+2011-11-25,Musim Dingin,November,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.375,0.64375,0.0988958,1095,1697,2792
+2011-11-26,Musim Dingin,November,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.375833,0.681667,0.0684208,1249,1819,3068
+2011-11-27,Musim Dingin,November,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.459167,0.698333,0.208954,810,2261,3071
+2011-11-28,Musim Dingin,November,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.503478,0.743043,0.142122,253,3614,3867
+2011-11-29,Musim Dingin,November,Selasa,Hari Kerja,Berkabut/Berawan,0.458333,0.830833,0.258092,96,2818,2914
+2011-11-30,Musim Dingin,November,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.325,0.613333,0.271158,188,3425,3613
+2011-12-01,Musim Dingin,Desember,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.3125,0.524583,0.220158,182,3545,3727
+2011-12-02,Musim Dingin,Desember,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.314167,0.625833,0.100754,268,3672,3940
+2011-12-03,Musim Dingin,Desember,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.299167,0.612917,0.0957833,706,2908,3614
+2011-12-04,Musim Dingin,Desember,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.330833,0.775833,0.0839583,634,2851,3485
+2011-12-05,Musim Dingin,Desember,Senin,Hari Kerja,Berkabut/Berawan,0.385833,0.827083,0.0622083,233,3578,3811
+2011-12-06,Musim Dingin,Desember,Selasa,Hari Kerja,Salju Ringan/Hujan Ringan,0.4625,0.949583,0.232583,126,2468,2594
+2011-12-07,Musim Dingin,Desember,Rabu,Hari Kerja,Salju Ringan/Hujan Ringan,0.41,0.970417,0.266175,50,655,705
+2011-12-08,Musim Dingin,Desember,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.265833,0.58,0.240058,150,3172,3322
+2011-12-09,Musim Dingin,Desember,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.290833,0.695833,0.0827167,261,3359,3620
+2011-12-10,Musim Dingin,Desember,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.275,0.5075,0.233221,502,2688,3190
+2011-12-11,Musim Dingin,Desember,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.220833,0.49,0.0665417,377,2366,2743
+2011-12-12,Musim Dingin,Desember,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.238333,0.670833,0.06345,143,3167,3310
+2011-12-13,Musim Dingin,Desember,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.2825,0.59,0.14055,155,3368,3523
+2011-12-14,Musim Dingin,Desember,Rabu,Hari Kerja,Berkabut/Berawan,0.3175,0.66375,0.0609583,178,3562,3740
+2011-12-15,Musim Dingin,Desember,Kamis,Hari Kerja,Berkabut/Berawan,0.4225,0.634167,0.268042,181,3528,3709
+2011-12-16,Musim Dingin,Desember,Jumat,Hari Kerja,Berkabut/Berawan,0.375,0.500417,0.260575,178,3399,3577
+2011-12-17,Musim Dingin,Desember,Sabtu,Akhir Pekan,Berkabut/Berawan,0.258333,0.560833,0.243167,275,2464,2739
+2011-12-18,Musim Dingin,Desember,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.238333,0.58625,0.169779,220,2211,2431
+2011-12-19,Musim Dingin,Desember,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.276667,0.6375,0.172896,260,3143,3403
+2011-12-20,Musim Dingin,Desember,Selasa,Hari Kerja,Berkabut/Berawan,0.385833,0.595417,0.0615708,216,3534,3750
+2011-12-21,Musim Semi,Desember,Rabu,Hari Kerja,Berkabut/Berawan,0.428333,0.858333,0.2214,107,2553,2660
+2011-12-22,Musim Semi,Desember,Kamis,Hari Kerja,Berkabut/Berawan,0.423333,0.7575,0.047275,227,2841,3068
+2011-12-23,Musim Semi,Desember,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.373333,0.68625,0.274246,163,2046,2209
+2011-12-24,Musim Semi,Desember,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.3025,0.5425,0.190304,155,856,1011
+2011-12-25,Musim Semi,Desember,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.274783,0.681304,0.155091,303,451,754
+2011-12-26,Musim Semi,Desember,Senin,Akhir Pekan,Cerah/Sedikit Berawan,0.321739,0.506957,0.239465,430,887,1317
+2011-12-27,Musim Semi,Desember,Selasa,Hari Kerja,Berkabut/Berawan,0.325,0.7625,0.18845,103,1059,1162
+2011-12-28,Musim Semi,Desember,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.29913,0.503913,0.293961,255,2047,2302
+2011-12-29,Musim Semi,Desember,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.248333,0.574167,0.119412,254,2169,2423
+2011-12-30,Musim Semi,Desember,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.311667,0.636667,0.134337,491,2508,2999
+2011-12-31,Musim Semi,Desember,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.41,0.615833,0.220154,665,1820,2485
+2012-01-01,Musim Semi,Januari,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.37,0.6925,0.192167,686,1608,2294
+2012-01-02,Musim Semi,Januari,Senin,Akhir Pekan,Cerah/Sedikit Berawan,0.273043,0.381304,0.329665,244,1707,1951
+2012-01-03,Musim Semi,Januari,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.15,0.44125,0.365671,89,2147,2236
+2012-01-04,Musim Semi,Januari,Rabu,Hari Kerja,Berkabut/Berawan,0.1075,0.414583,0.1847,95,2273,2368
+2012-01-05,Musim Semi,Januari,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.265833,0.524167,0.129987,140,3132,3272
+2012-01-06,Musim Semi,Januari,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.334167,0.542083,0.167908,307,3791,4098
+2012-01-07,Musim Semi,Januari,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.393333,0.531667,0.174758,1070,3451,4521
+2012-01-08,Musim Semi,Januari,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.3375,0.465,0.191542,599,2826,3425
+2012-01-09,Musim Semi,Januari,Senin,Hari Kerja,Berkabut/Berawan,0.224167,0.701667,0.0989,106,2270,2376
+2012-01-10,Musim Semi,Januari,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.308696,0.646522,0.187552,173,3425,3598
+2012-01-11,Musim Semi,Januari,Rabu,Hari Kerja,Berkabut/Berawan,0.274167,0.8475,0.131221,92,2085,2177
+2012-01-12,Musim Semi,Januari,Kamis,Hari Kerja,Berkabut/Berawan,0.3825,0.802917,0.180967,269,3828,4097
+2012-01-13,Musim Semi,Januari,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.274167,0.5075,0.378108,174,3040,3214
+2012-01-14,Musim Semi,Januari,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.18,0.4575,0.187183,333,2160,2493
+2012-01-15,Musim Semi,Januari,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.166667,0.419167,0.251258,284,2027,2311
+2012-01-16,Musim Semi,Januari,Senin,Akhir Pekan,Cerah/Sedikit Berawan,0.19,0.5225,0.231358,217,2081,2298
+2012-01-17,Musim Semi,Januari,Selasa,Hari Kerja,Berkabut/Berawan,0.373043,0.716087,0.34913,127,2808,2935
+2012-01-18,Musim Semi,Januari,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.303333,0.443333,0.415429,109,3267,3376
+2012-01-19,Musim Semi,Januari,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.19,0.4975,0.220158,130,3162,3292
+2012-01-20,Musim Semi,Januari,Jumat,Hari Kerja,Berkabut/Berawan,0.2175,0.45,0.20275,115,3048,3163
+2012-01-21,Musim Semi,Januari,Sabtu,Akhir Pekan,Berkabut/Berawan,0.173333,0.83125,0.222642,67,1234,1301
+2012-01-22,Musim Semi,Januari,Minggu,Akhir Pekan,Berkabut/Berawan,0.1625,0.79625,0.199638,196,1781,1977
+2012-01-23,Musim Semi,Januari,Senin,Hari Kerja,Berkabut/Berawan,0.218333,0.91125,0.110708,145,2287,2432
+2012-01-24,Musim Semi,Januari,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.3425,0.835833,0.123767,439,3900,4339
+2012-01-25,Musim Semi,Januari,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.294167,0.64375,0.161071,467,3803,4270
+2012-01-26,Musim Semi,Januari,Kamis,Hari Kerja,Berkabut/Berawan,0.341667,0.769583,0.0733958,244,3831,4075
+2012-01-27,Musim Semi,Januari,Jumat,Hari Kerja,Berkabut/Berawan,0.425,0.74125,0.342667,269,3187,3456
+2012-01-28,Musim Semi,Januari,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.315833,0.543333,0.210829,775,3248,4023
+2012-01-29,Musim Semi,Januari,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.2825,0.31125,0.24005,558,2685,3243
+2012-01-30,Musim Semi,Januari,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.269167,0.400833,0.215792,126,3498,3624
+2012-01-31,Musim Semi,Januari,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.39,0.416667,0.261817,324,4185,4509
+2012-02-01,Musim Semi,Februari,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.469167,0.507917,0.189067,304,4275,4579
+2012-02-02,Musim Semi,Februari,Kamis,Hari Kerja,Berkabut/Berawan,0.399167,0.672917,0.187187,190,3571,3761
+2012-02-03,Musim Semi,Februari,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.313333,0.526667,0.178496,310,3841,4151
+2012-02-04,Musim Semi,Februari,Sabtu,Akhir Pekan,Berkabut/Berawan,0.264167,0.779583,0.121896,384,2448,2832
+2012-02-05,Musim Semi,Februari,Minggu,Akhir Pekan,Berkabut/Berawan,0.265833,0.687917,0.175996,318,2629,2947
+2012-02-06,Musim Semi,Februari,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.282609,0.622174,0.1538,206,3578,3784
+2012-02-07,Musim Semi,Februari,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.354167,0.49625,0.147379,199,4176,4375
+2012-02-08,Musim Semi,Februari,Rabu,Hari Kerja,Berkabut/Berawan,0.256667,0.722917,0.133721,109,2693,2802
+2012-02-09,Musim Semi,Februari,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.265,0.562083,0.194037,163,3667,3830
+2012-02-10,Musim Semi,Februari,Jumat,Hari Kerja,Berkabut/Berawan,0.280833,0.54,0.116929,227,3604,3831
+2012-02-11,Musim Semi,Februari,Sabtu,Akhir Pekan,Salju Ringan/Hujan Ringan,0.224167,0.73125,0.289796,192,1977,2169
+2012-02-12,Musim Semi,Februari,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.1275,0.464583,0.409212,73,1456,1529
+2012-02-13,Musim Semi,Februari,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.2225,0.41125,0.167283,94,3328,3422
+2012-02-14,Musim Semi,Februari,Selasa,Hari Kerja,Berkabut/Berawan,0.319167,0.50875,0.141179,135,3787,3922
+2012-02-15,Musim Semi,Februari,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.348333,0.53125,0.1816,141,4028,4169
+2012-02-16,Musim Semi,Februari,Kamis,Hari Kerja,Berkabut/Berawan,0.316667,0.752917,0.091425,74,2931,3005
+2012-02-17,Musim Semi,Februari,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.343333,0.634583,0.205846,349,3805,4154
+2012-02-18,Musim Semi,Februari,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.346667,0.534583,0.190929,1435,2883,4318
+2012-02-19,Musim Semi,Februari,Minggu,Akhir Pekan,Berkabut/Berawan,0.28,0.515833,0.253112,618,2071,2689
+2012-02-20,Musim Semi,Februari,Senin,Akhir Pekan,Cerah/Sedikit Berawan,0.28,0.507826,0.229083,502,2627,3129
+2012-02-21,Musim Semi,Februari,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.287826,0.594348,0.205717,163,3614,3777
+2012-02-22,Musim Semi,Februari,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.395833,0.567917,0.234471,394,4379,4773
+2012-02-23,Musim Semi,Februari,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.454167,0.554583,0.190913,516,4546,5062
+2012-02-24,Musim Semi,Februari,Jumat,Hari Kerja,Berkabut/Berawan,0.4075,0.7375,0.237567,246,3241,3487
+2012-02-25,Musim Semi,Februari,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.290833,0.395833,0.421642,317,2415,2732
+2012-02-26,Musim Semi,Februari,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.279167,0.41,0.205229,515,2874,3389
+2012-02-27,Musim Semi,Februari,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.366667,0.490833,0.268033,253,4069,4322
+2012-02-28,Musim Semi,Februari,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.359167,0.395833,0.193417,229,4134,4363
+2012-02-29,Musim Semi,Februari,Rabu,Hari Kerja,Berkabut/Berawan,0.344348,0.804783,0.179117,65,1769,1834
+2012-03-01,Musim Semi,Maret,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.485833,0.615417,0.226987,325,4665,4990
+2012-03-02,Musim Semi,Maret,Jumat,Hari Kerja,Berkabut/Berawan,0.353333,0.657083,0.144904,246,2948,3194
+2012-03-03,Musim Semi,Maret,Sabtu,Akhir Pekan,Berkabut/Berawan,0.414167,0.62125,0.161079,956,3110,4066
+2012-03-04,Musim Semi,Maret,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.325833,0.403333,0.334571,710,2713,3423
+2012-03-05,Musim Semi,Maret,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.243333,0.50625,0.228858,203,3130,3333
+2012-03-06,Musim Semi,Maret,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.258333,0.456667,0.200875,221,3735,3956
+2012-03-07,Musim Semi,Maret,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.404167,0.513333,0.345779,432,4484,4916
+2012-03-08,Musim Semi,Maret,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.5275,0.5675,0.441563,486,4896,5382
+2012-03-09,Musim Semi,Maret,Jumat,Hari Kerja,Berkabut/Berawan,0.410833,0.407083,0.4148,447,4122,4569
+2012-03-10,Musim Semi,Maret,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.2875,0.350417,0.22575,968,3150,4118
+2012-03-11,Musim Semi,Maret,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.361739,0.476957,0.222587,1658,3253,4911
+2012-03-12,Musim Semi,Maret,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.466667,0.489167,0.207713,838,4460,5298
+2012-03-13,Musim Semi,Maret,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.565,0.6175,0.23695,762,5085,5847
+2012-03-14,Musim Semi,Maret,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.5725,0.507083,0.115062,997,5315,6312
+2012-03-15,Musim Semi,Maret,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.5575,0.579583,0.149883,1005,5187,6192
+2012-03-16,Musim Semi,Maret,Jumat,Hari Kerja,Berkabut/Berawan,0.435833,0.842083,0.113192,548,3830,4378
+2012-03-17,Musim Semi,Maret,Sabtu,Akhir Pekan,Berkabut/Berawan,0.514167,0.755833,0.110704,3155,4681,7836
+2012-03-18,Musim Semi,Maret,Minggu,Akhir Pekan,Berkabut/Berawan,0.4725,0.81,0.126883,2207,3685,5892
+2012-03-19,Musim Semi,Maret,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.545,0.72875,0.162317,982,5171,6153
+2012-03-20,Musim Semi,Maret,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.560833,0.807917,0.121271,1051,5042,6093
+2012-03-21,Musim Panas,Maret,Rabu,Hari Kerja,Berkabut/Berawan,0.531667,0.82125,0.0895583,1122,5108,6230
+2012-03-22,Musim Panas,Maret,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.554167,0.83125,0.117562,1334,5537,6871
+2012-03-23,Musim Panas,Maret,Jumat,Hari Kerja,Berkabut/Berawan,0.601667,0.694167,0.1163,2469,5893,8362
+2012-03-24,Musim Panas,Maret,Sabtu,Akhir Pekan,Berkabut/Berawan,0.5025,0.885417,0.192783,1033,2339,3372
+2012-03-25,Musim Panas,Maret,Minggu,Akhir Pekan,Berkabut/Berawan,0.4375,0.880833,0.220775,1532,3464,4996
+2012-03-26,Musim Panas,Maret,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.445833,0.477917,0.386821,795,4763,5558
+2012-03-27,Musim Panas,Maret,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.323333,0.29,0.187192,531,4571,5102
+2012-03-28,Musim Panas,Maret,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.484167,0.48125,0.291671,674,5024,5698
+2012-03-29,Musim Panas,Maret,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.494167,0.439167,0.31965,834,5299,6133
+2012-03-30,Musim Panas,Maret,Jumat,Hari Kerja,Berkabut/Berawan,0.37,0.580833,0.138067,796,4663,5459
+2012-03-31,Musim Panas,Maret,Sabtu,Akhir Pekan,Berkabut/Berawan,0.424167,0.738333,0.250617,2301,3934,6235
+2012-04-01,Musim Panas,April,Minggu,Akhir Pekan,Berkabut/Berawan,0.425833,0.67625,0.172267,2347,3694,6041
+2012-04-02,Musim Panas,April,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.433913,0.504348,0.312139,1208,4728,5936
+2012-04-03,Musim Panas,April,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.466667,0.396667,0.100133,1348,5424,6772
+2012-04-04,Musim Panas,April,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.541667,0.469583,0.180975,1058,5378,6436
+2012-04-05,Musim Panas,April,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.435,0.374167,0.219529,1192,5265,6457
+2012-04-06,Musim Panas,April,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.403333,0.377083,0.300388,1807,4653,6460
+2012-04-07,Musim Panas,April,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.4375,0.254167,0.274871,3252,3605,6857
+2012-04-08,Musim Panas,April,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.5,0.275833,0.232596,2230,2939,5169
+2012-04-09,Musim Panas,April,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.489167,0.3175,0.358196,905,4680,5585
+2012-04-10,Musim Panas,April,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.446667,0.435,0.249375,819,5099,5918
+2012-04-11,Musim Panas,April,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.348696,0.469565,0.295274,482,4380,4862
+2012-04-12,Musim Panas,April,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.3975,0.46625,0.290429,663,4746,5409
+2012-04-13,Musim Panas,April,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.4425,0.408333,0.155471,1252,5146,6398
+2012-04-14,Musim Panas,April,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.495,0.502917,0.190917,2795,4665,7460
+2012-04-15,Musim Panas,April,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.606667,0.507917,0.225129,2846,4286,7132
+2012-04-16,Musim Panas,April,Senin,Akhir Pekan,Cerah/Sedikit Berawan,0.664167,0.561667,0.284829,1198,5172,6370
+2012-04-17,Musim Panas,April,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.608333,0.390417,0.273629,989,5702,6691
+2012-04-18,Musim Panas,April,Rabu,Hari Kerja,Berkabut/Berawan,0.463333,0.569167,0.167912,347,4020,4367
+2012-04-19,Musim Panas,April,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.498333,0.6125,0.0659292,846,5719,6565
+2012-04-20,Musim Panas,April,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.526667,0.694583,0.149871,1340,5950,7290
+2012-04-21,Musim Panas,April,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.57,0.682917,0.283587,2541,4083,6624
+2012-04-22,Musim Panas,April,Minggu,Akhir Pekan,Salju Ringan/Hujan Ringan,0.396667,0.835417,0.344546,120,907,1027
+2012-04-23,Musim Panas,April,Senin,Hari Kerja,Berkabut/Berawan,0.321667,0.766667,0.303496,195,3019,3214
+2012-04-24,Musim Panas,April,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.413333,0.454167,0.249383,518,5115,5633
+2012-04-25,Musim Panas,April,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.476667,0.427917,0.118792,655,5541,6196
+2012-04-26,Musim Panas,April,Kamis,Hari Kerja,Berkabut/Berawan,0.498333,0.756667,0.176625,475,4551,5026
+2012-04-27,Musim Panas,April,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.4575,0.400833,0.347633,1014,5219,6233
+2012-04-28,Musim Panas,April,Sabtu,Akhir Pekan,Berkabut/Berawan,0.376667,0.489583,0.129975,1120,3100,4220
+2012-04-29,Musim Panas,April,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.458333,0.587083,0.116908,2229,4075,6304
+2012-04-30,Musim Panas,April,Senin,Hari Kerja,Berkabut/Berawan,0.464167,0.57,0.171638,665,4907,5572
+2012-05-01,Musim Panas,Mei,Selasa,Hari Kerja,Berkabut/Berawan,0.613333,0.659583,0.156096,653,5087,5740
+2012-05-02,Musim Panas,Mei,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.564167,0.797083,0.138058,667,5502,6169
+2012-05-03,Musim Panas,Mei,Kamis,Hari Kerja,Berkabut/Berawan,0.56,0.768333,0.133696,764,5657,6421
+2012-05-04,Musim Panas,Mei,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.6275,0.735417,0.162938,1069,5227,6296
+2012-05-05,Musim Panas,Mei,Sabtu,Akhir Pekan,Berkabut/Berawan,0.621667,0.756667,0.152992,2496,4387,6883
+2012-05-06,Musim Panas,Mei,Minggu,Akhir Pekan,Berkabut/Berawan,0.5625,0.74,0.149879,2135,4224,6359
+2012-05-07,Musim Panas,Mei,Senin,Hari Kerja,Berkabut/Berawan,0.5375,0.664167,0.230721,1008,5265,6273
+2012-05-08,Musim Panas,Mei,Selasa,Hari Kerja,Berkabut/Berawan,0.581667,0.685833,0.296029,738,4990,5728
+2012-05-09,Musim Panas,Mei,Rabu,Hari Kerja,Berkabut/Berawan,0.575,0.744167,0.216412,620,4097,4717
+2012-05-10,Musim Panas,Mei,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.505833,0.552083,0.314063,1026,5546,6572
+2012-05-11,Musim Panas,Mei,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.533333,0.360417,0.236937,1319,5711,7030
+2012-05-12,Musim Panas,Mei,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.564167,0.480417,0.123133,2622,4807,7429
+2012-05-13,Musim Panas,Mei,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.6125,0.57625,0.225117,2172,3946,6118
+2012-05-14,Musim Panas,Mei,Senin,Hari Kerja,Berkabut/Berawan,0.573333,0.789583,0.212692,342,2501,2843
+2012-05-15,Musim Panas,Mei,Selasa,Hari Kerja,Berkabut/Berawan,0.611667,0.794583,0.147392,625,4490,5115
+2012-05-16,Musim Panas,Mei,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.636667,0.697917,0.122512,991,6433,7424
+2012-05-17,Musim Panas,Mei,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.593333,0.52,0.229475,1242,6142,7384
+2012-05-18,Musim Panas,Mei,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.564167,0.523333,0.136817,1521,6118,7639
+2012-05-19,Musim Panas,Mei,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.6,0.45625,0.083975,3410,4884,8294
+2012-05-20,Musim Panas,Mei,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.620833,0.530417,0.254367,2704,4425,7129
+2012-05-21,Musim Panas,Mei,Senin,Hari Kerja,Berkabut/Berawan,0.598333,0.81125,0.233204,630,3729,4359
+2012-05-22,Musim Panas,Mei,Selasa,Hari Kerja,Berkabut/Berawan,0.615,0.765833,0.118167,819,5254,6073
+2012-05-23,Musim Panas,Mei,Rabu,Hari Kerja,Berkabut/Berawan,0.621667,0.774583,0.102,766,4494,5260
+2012-05-24,Musim Panas,Mei,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.655,0.716667,0.172896,1059,5711,6770
+2012-05-25,Musim Panas,Mei,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.68,0.747083,0.14055,1417,5317,6734
+2012-05-26,Musim Panas,Mei,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.6925,0.7325,0.198992,2855,3681,6536
+2012-05-27,Musim Panas,Mei,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.69,0.697083,0.215171,3283,3308,6591
+2012-05-28,Musim Panas,Mei,Senin,Akhir Pekan,Cerah/Sedikit Berawan,0.7125,0.67625,0.196521,2557,3486,6043
+2012-05-29,Musim Panas,Mei,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.7225,0.684583,0.2954,880,4863,5743
+2012-05-30,Musim Panas,Mei,Rabu,Hari Kerja,Berkabut/Berawan,0.656667,0.67,0.134329,745,6110,6855
+2012-05-31,Musim Panas,Mei,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.68,0.492917,0.195279,1100,6238,7338
+2012-06-01,Musim Panas,Juni,Jumat,Hari Kerja,Berkabut/Berawan,0.654167,0.755417,0.237563,533,3594,4127
+2012-06-02,Musim Panas,Juni,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.583333,0.549167,0.186562,2795,5325,8120
+2012-06-03,Musim Panas,Juni,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.6025,0.493333,0.184087,2494,5147,7641
+2012-06-04,Musim Panas,Juni,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.5975,0.487083,0.284833,1071,5927,6998
+2012-06-05,Musim Panas,Juni,Selasa,Hari Kerja,Berkabut/Berawan,0.540833,0.613333,0.209575,968,6033,7001
+2012-06-06,Musim Panas,Juni,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.554167,0.61125,0.077125,1027,6028,7055
+2012-06-07,Musim Panas,Juni,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.6025,0.567083,0.15735,1038,6456,7494
+2012-06-08,Musim Panas,Juni,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.649167,0.467917,0.175383,1488,6248,7736
+2012-06-09,Musim Panas,Juni,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.710833,0.437083,0.144287,2708,4790,7498
+2012-06-10,Musim Panas,Juni,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.726667,0.538333,0.133721,2224,4374,6598
+2012-06-11,Musim Panas,Juni,Senin,Hari Kerja,Berkabut/Berawan,0.720833,0.587917,0.207713,1017,5647,6664
+2012-06-12,Musim Panas,Juni,Selasa,Hari Kerja,Berkabut/Berawan,0.653333,0.833333,0.214546,477,4495,4972
+2012-06-13,Musim Panas,Juni,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.655833,0.582083,0.343279,1173,6248,7421
+2012-06-14,Musim Panas,Juni,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.648333,0.569583,0.253733,1180,6183,7363
+2012-06-15,Musim Panas,Juni,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.639167,0.589583,0.176617,1563,6102,7665
+2012-06-16,Musim Panas,Juni,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.631667,0.504167,0.166667,2963,4739,7702
+2012-06-17,Musim Panas,Juni,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.5925,0.59875,0.144904,2634,4344,6978
+2012-06-18,Musim Panas,Juni,Senin,Hari Kerja,Berkabut/Berawan,0.568333,0.777917,0.174746,653,4446,5099
+2012-06-19,Musim Panas,Juni,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.688333,0.69,0.148017,968,5857,6825
+2012-06-20,Musim Panas,Juni,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.7825,0.592083,0.113812,872,5339,6211
+2012-06-21,Musim Gugur,Juni,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.805833,0.567917,0.118787,778,5127,5905
+2012-06-22,Musim Gugur,Juni,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.7775,0.57375,0.182842,964,4859,5823
+2012-06-23,Musim Gugur,Juni,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.731667,0.534583,0.179721,2657,4801,7458
+2012-06-24,Musim Gugur,Juni,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.743333,0.479167,0.145525,2551,4340,6891
+2012-06-25,Musim Gugur,Juni,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.715833,0.504167,0.300383,1139,5640,6779
+2012-06-26,Musim Gugur,Juni,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.630833,0.373333,0.347642,1077,6365,7442
+2012-06-27,Musim Gugur,Juni,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.6975,0.36,0.271775,1077,6258,7335
+2012-06-28,Musim Gugur,Juni,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.749167,0.4225,0.17165,921,5958,6879
+2012-06-29,Musim Gugur,Juni,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.834167,0.48875,0.165417,829,4634,5463
+2012-06-30,Musim Gugur,Juni,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.765,0.60125,0.161071,1455,4232,5687
+2012-07-01,Musim Gugur,Juli,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.815833,0.51875,0.168529,1421,4110,5531
+2012-07-02,Musim Gugur,Juli,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.781667,0.447083,0.195267,904,5323,6227
+2012-07-03,Musim Gugur,Juli,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.780833,0.492083,0.126237,1052,5608,6660
+2012-07-04,Musim Gugur,Juli,Rabu,Akhir Pekan,Cerah/Sedikit Berawan,0.789167,0.53875,0.13495,2562,4841,7403
+2012-07-05,Musim Gugur,Juli,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.8275,0.457917,0.194029,1405,4836,6241
+2012-07-06,Musim Gugur,Juli,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.828333,0.450833,0.146142,1366,4841,6207
+2012-07-07,Musim Gugur,Juli,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.861667,0.492083,0.163554,1448,3392,4840
+2012-07-08,Musim Gugur,Juli,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.8225,0.57375,0.125629,1203,3469,4672
+2012-07-09,Musim Gugur,Juli,Senin,Hari Kerja,Berkabut/Berawan,0.710833,0.683333,0.180975,998,5571,6569
+2012-07-10,Musim Gugur,Juli,Selasa,Hari Kerja,Berkabut/Berawan,0.720833,0.6675,0.151737,954,5336,6290
+2012-07-11,Musim Gugur,Juli,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.716667,0.633333,0.151733,975,6289,7264
+2012-07-12,Musim Gugur,Juli,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.715833,0.529583,0.146775,1032,6414,7446
+2012-07-13,Musim Gugur,Juli,Jumat,Hari Kerja,Berkabut/Berawan,0.731667,0.485833,0.08085,1511,5988,7499
+2012-07-14,Musim Gugur,Juli,Sabtu,Akhir Pekan,Berkabut/Berawan,0.703333,0.699167,0.143679,2355,4614,6969
+2012-07-15,Musim Gugur,Juli,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.745833,0.717917,0.166667,1920,4111,6031
+2012-07-16,Musim Gugur,Juli,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.763333,0.645,0.164187,1088,5742,6830
+2012-07-17,Musim Gugur,Juli,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.818333,0.505833,0.114429,921,5865,6786
+2012-07-18,Musim Gugur,Juli,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.793333,0.577083,0.137442,799,4914,5713
+2012-07-19,Musim Gugur,Juli,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.77,0.600417,0.165429,888,5703,6591
+2012-07-20,Musim Gugur,Juli,Jumat,Hari Kerja,Berkabut/Berawan,0.665833,0.844167,0.208967,747,5123,5870
+2012-07-21,Musim Gugur,Juli,Sabtu,Akhir Pekan,Salju Ringan/Hujan Ringan,0.595833,0.865417,0.2133,1264,3195,4459
+2012-07-22,Musim Gugur,Juli,Minggu,Akhir Pekan,Berkabut/Berawan,0.6675,0.7625,0.0939208,2544,4866,7410
+2012-07-23,Musim Gugur,Juli,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.741667,0.694167,0.138683,1135,5831,6966
+2012-07-24,Musim Gugur,Juli,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.750833,0.655,0.211454,1140,6452,7592
+2012-07-25,Musim Gugur,Juli,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.724167,0.45,0.1648,1383,6790,8173
+2012-07-26,Musim Gugur,Juli,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.776667,0.596667,0.284813,1036,5825,6861
+2012-07-27,Musim Gugur,Juli,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.781667,0.594583,0.152992,1259,5645,6904
+2012-07-28,Musim Gugur,Juli,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.755833,0.613333,0.15735,2234,4451,6685
+2012-07-29,Musim Gugur,Juli,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.721667,0.62375,0.170396,2153,4444,6597
+2012-07-30,Musim Gugur,Juli,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.730833,0.66875,0.153617,1040,6065,7105
+2012-07-31,Musim Gugur,Juli,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.713333,0.704167,0.165425,968,6248,7216
+2012-08-01,Musim Gugur,Agustus,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.7175,0.6775,0.141179,1074,6506,7580
+2012-08-02,Musim Gugur,Agustus,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.7525,0.659583,0.129354,983,6278,7261
+2012-08-03,Musim Gugur,Agustus,Jumat,Hari Kerja,Berkabut/Berawan,0.765833,0.6425,0.215792,1328,5847,7175
+2012-08-04,Musim Gugur,Agustus,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.793333,0.613333,0.257458,2345,4479,6824
+2012-08-05,Musim Gugur,Agustus,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.769167,0.6525,0.290421,1707,3757,5464
+2012-08-06,Musim Gugur,Agustus,Senin,Hari Kerja,Berkabut/Berawan,0.7525,0.654167,0.129354,1233,5780,7013
+2012-08-07,Musim Gugur,Agustus,Selasa,Hari Kerja,Berkabut/Berawan,0.735833,0.70375,0.116908,1278,5995,7273
+2012-08-08,Musim Gugur,Agustus,Rabu,Hari Kerja,Berkabut/Berawan,0.75,0.672917,0.1107,1263,6271,7534
+2012-08-09,Musim Gugur,Agustus,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.755833,0.620417,0.1561,1196,6090,7286
+2012-08-10,Musim Gugur,Agustus,Jumat,Hari Kerja,Berkabut/Berawan,0.715833,0.715833,0.238813,1065,4721,5786
+2012-08-11,Musim Gugur,Agustus,Sabtu,Akhir Pekan,Berkabut/Berawan,0.6925,0.732917,0.206479,2247,4052,6299
+2012-08-12,Musim Gugur,Agustus,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.700833,0.530417,0.122512,2182,4362,6544
+2012-08-13,Musim Gugur,Agustus,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.720833,0.545417,0.136212,1207,5676,6883
+2012-08-14,Musim Gugur,Agustus,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.726667,0.686667,0.169158,1128,5656,6784
+2012-08-15,Musim Gugur,Agustus,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.706667,0.619583,0.169771,1198,6149,7347
+2012-08-16,Musim Gugur,Agustus,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.719167,0.519167,0.141796,1338,6267,7605
+2012-08-17,Musim Gugur,Agustus,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.723333,0.570833,0.231354,1483,5665,7148
+2012-08-18,Musim Gugur,Agustus,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.678333,0.603333,0.177867,2827,5038,7865
+2012-08-19,Musim Gugur,Agustus,Minggu,Akhir Pekan,Berkabut/Berawan,0.635833,0.711667,0.08645,1208,3341,4549
+2012-08-20,Musim Gugur,Agustus,Senin,Hari Kerja,Berkabut/Berawan,0.635833,0.734167,0.129979,1026,5504,6530
+2012-08-21,Musim Gugur,Agustus,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.649167,0.67375,0.0727708,1081,5925,7006
+2012-08-22,Musim Gugur,Agustus,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.6675,0.677083,0.0702833,1094,6281,7375
+2012-08-23,Musim Gugur,Agustus,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.695833,0.635833,0.0845958,1363,6402,7765
+2012-08-24,Musim Gugur,Agustus,Jumat,Hari Kerja,Berkabut/Berawan,0.7025,0.615,0.0721458,1325,6257,7582
+2012-08-25,Musim Gugur,Agustus,Sabtu,Akhir Pekan,Berkabut/Berawan,0.661667,0.712917,0.244408,1829,4224,6053
+2012-08-26,Musim Gugur,Agustus,Minggu,Akhir Pekan,Berkabut/Berawan,0.653333,0.845833,0.228858,1483,3772,5255
+2012-08-27,Musim Gugur,Agustus,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.703333,0.730417,0.128733,989,5928,6917
+2012-08-28,Musim Gugur,Agustus,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.728333,0.62,0.190925,935,6105,7040
+2012-08-29,Musim Gugur,Agustus,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.685,0.552083,0.112562,1177,6520,7697
+2012-08-30,Musim Gugur,Agustus,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.706667,0.590417,0.0771167,1172,6541,7713
+2012-08-31,Musim Gugur,Agustus,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.764167,0.5875,0.168533,1433,5917,7350
+2012-09-01,Musim Gugur,September,Sabtu,Akhir Pekan,Berkabut/Berawan,0.753333,0.638333,0.113187,2352,3788,6140
+2012-09-02,Musim Gugur,September,Minggu,Akhir Pekan,Berkabut/Berawan,0.696667,0.815,0.0640708,2613,3197,5810
+2012-09-03,Musim Gugur,September,Senin,Akhir Pekan,Cerah/Sedikit Berawan,0.7075,0.790833,0.151121,1965,4069,6034
+2012-09-04,Musim Gugur,September,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.725833,0.755,0.236321,867,5997,6864
+2012-09-05,Musim Gugur,September,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.736667,0.74125,0.187808,832,6280,7112
+2012-09-06,Musim Gugur,September,Kamis,Hari Kerja,Berkabut/Berawan,0.696667,0.810417,0.142421,611,5592,6203
+2012-09-07,Musim Gugur,September,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.703333,0.73625,0.171646,1045,6459,7504
+2012-09-08,Musim Gugur,September,Sabtu,Akhir Pekan,Berkabut/Berawan,0.659167,0.799167,0.281104,1557,4419,5976
+2012-09-09,Musim Gugur,September,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.61,0.5475,0.224496,2570,5657,8227
+2012-09-10,Musim Gugur,September,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.583333,0.50375,0.258713,1118,6407,7525
+2012-09-11,Musim Gugur,September,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.5775,0.52,0.0920542,1070,6697,7767
+2012-09-12,Musim Gugur,September,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.599167,0.577083,0.131846,1050,6820,7870
+2012-09-13,Musim Gugur,September,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.6125,0.637083,0.0827208,1054,6750,7804
+2012-09-14,Musim Gugur,September,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.633333,0.6725,0.103863,1379,6630,8009
+2012-09-15,Musim Gugur,September,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.608333,0.501667,0.247521,3160,5554,8714
+2012-09-16,Musim Gugur,September,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.58,0.57,0.0901833,2166,5167,7333
+2012-09-17,Musim Gugur,September,Senin,Hari Kerja,Berkabut/Berawan,0.580833,0.734583,0.151742,1022,5847,6869
+2012-09-18,Musim Gugur,September,Selasa,Hari Kerja,Berkabut/Berawan,0.623333,0.8725,0.357587,371,3702,4073
+2012-09-19,Musim Gugur,September,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.5525,0.536667,0.215175,788,6803,7591
+2012-09-20,Musim Gugur,September,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.546667,0.618333,0.118167,939,6781,7720
+2012-09-21,Musim Gugur,September,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.599167,0.66875,0.154229,1250,6917,8167
+2012-09-22,Musim Gugur,September,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.65,0.646667,0.283583,2512,5883,8395
+2012-09-23,Musim Dingin,September,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.529167,0.467083,0.223258,2454,5453,7907
+2012-09-24,Musim Dingin,September,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.514167,0.492917,0.142404,1001,6435,7436
+2012-09-25,Musim Dingin,September,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.55,0.57,0.236321,845,6693,7538
+2012-09-26,Musim Dingin,September,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.635,0.630833,0.2444,787,6946,7733
+2012-09-27,Musim Dingin,September,Kamis,Hari Kerja,Berkabut/Berawan,0.65,0.690833,0.134342,751,6642,7393
+2012-09-28,Musim Dingin,September,Jumat,Hari Kerja,Berkabut/Berawan,0.619167,0.69,0.164179,1045,6370,7415
+2012-09-29,Musim Dingin,September,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.5425,0.542917,0.227604,2589,5966,8555
+2012-09-30,Musim Dingin,September,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.526667,0.583333,0.134958,2015,4874,6889
+2012-10-01,Musim Dingin,Oktober,Senin,Hari Kerja,Berkabut/Berawan,0.520833,0.649167,0.0908042,763,6015,6778
+2012-10-02,Musim Dingin,Oktober,Selasa,Hari Kerja,Salju Ringan/Hujan Ringan,0.590833,0.871667,0.104475,315,4324,4639
+2012-10-03,Musim Dingin,Oktober,Rabu,Hari Kerja,Berkabut/Berawan,0.6575,0.79375,0.0665458,728,6844,7572
+2012-10-04,Musim Dingin,Oktober,Kamis,Hari Kerja,Berkabut/Berawan,0.6575,0.722917,0.117546,891,6437,7328
+2012-10-05,Musim Dingin,Oktober,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.615,0.6275,0.10635,1516,6640,8156
+2012-10-06,Musim Dingin,Oktober,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.554167,0.664167,0.268025,3031,4934,7965
+2012-10-07,Musim Dingin,Oktober,Minggu,Akhir Pekan,Berkabut/Berawan,0.415833,0.708333,0.141162,781,2729,3510
+2012-10-08,Musim Dingin,Oktober,Senin,Akhir Pekan,Berkabut/Berawan,0.383333,0.709583,0.189679,874,4604,5478
+2012-10-09,Musim Dingin,Oktober,Selasa,Hari Kerja,Berkabut/Berawan,0.446667,0.761667,0.1903,601,5791,6392
+2012-10-10,Musim Dingin,Oktober,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.514167,0.630833,0.187821,780,6911,7691
+2012-10-11,Musim Dingin,Oktober,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.435,0.463333,0.181596,834,6736,7570
+2012-10-12,Musim Dingin,Oktober,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.4375,0.539167,0.235092,1060,6222,7282
+2012-10-13,Musim Dingin,Oktober,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.393333,0.494583,0.146142,2252,4857,7109
+2012-10-14,Musim Dingin,Oktober,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.521667,0.640417,0.278612,2080,4559,6639
+2012-10-15,Musim Dingin,Oktober,Senin,Hari Kerja,Berkabut/Berawan,0.561667,0.7075,0.296037,760,5115,5875
+2012-10-16,Musim Dingin,Oktober,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.468333,0.558333,0.182221,922,6612,7534
+2012-10-17,Musim Dingin,Oktober,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.455833,0.692917,0.101371,979,6482,7461
+2012-10-18,Musim Dingin,Oktober,Kamis,Hari Kerja,Berkabut/Berawan,0.5225,0.728333,0.236937,1008,6501,7509
+2012-10-19,Musim Dingin,Oktober,Jumat,Hari Kerja,Berkabut/Berawan,0.563333,0.815,0.134954,753,4671,5424
+2012-10-20,Musim Dingin,Oktober,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.484167,0.572917,0.117537,2806,5284,8090
+2012-10-21,Musim Dingin,Oktober,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.464167,0.51,0.166054,2132,4692,6824
+2012-10-22,Musim Dingin,Oktober,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.4875,0.568333,0.0814833,830,6228,7058
+2012-10-23,Musim Dingin,Oktober,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.544167,0.641667,0.0945458,841,6625,7466
+2012-10-24,Musim Dingin,Oktober,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.5875,0.63625,0.0727792,795,6898,7693
+2012-10-25,Musim Dingin,Oktober,Kamis,Hari Kerja,Berkabut/Berawan,0.55,0.800417,0.124375,875,6484,7359
+2012-10-26,Musim Dingin,Oktober,Jumat,Hari Kerja,Berkabut/Berawan,0.545833,0.807083,0.132467,1182,6262,7444
+2012-10-27,Musim Dingin,Oktober,Sabtu,Akhir Pekan,Berkabut/Berawan,0.53,0.72,0.235692,2643,5209,7852
+2012-10-28,Musim Dingin,Oktober,Minggu,Akhir Pekan,Berkabut/Berawan,0.4775,0.694583,0.398008,998,3461,4459
+2012-10-29,Musim Dingin,Oktober,Senin,Hari Kerja,Salju Ringan/Hujan Ringan,0.44,0.88,0.3582,2,20,22
+2012-10-30,Musim Dingin,Oktober,Selasa,Hari Kerja,Berkabut/Berawan,0.318182,0.825455,0.213009,87,1009,1096
+2012-10-31,Musim Dingin,Oktober,Rabu,Hari Kerja,Berkabut/Berawan,0.3575,0.666667,0.166667,419,5147,5566
+2012-11-01,Musim Dingin,November,Kamis,Hari Kerja,Berkabut/Berawan,0.365833,0.581667,0.157346,466,5520,5986
+2012-11-02,Musim Dingin,November,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.355,0.522083,0.266175,618,5229,5847
+2012-11-03,Musim Dingin,November,Sabtu,Akhir Pekan,Berkabut/Berawan,0.343333,0.49125,0.270529,1029,4109,5138
+2012-11-04,Musim Dingin,November,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.325833,0.532917,0.179108,1201,3906,5107
+2012-11-05,Musim Dingin,November,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.319167,0.494167,0.236325,378,4881,5259
+2012-11-06,Musim Dingin,November,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.280833,0.567083,0.173513,466,5220,5686
+2012-11-07,Musim Dingin,November,Rabu,Hari Kerja,Berkabut/Berawan,0.295833,0.5475,0.304108,326,4709,5035
+2012-11-08,Musim Dingin,November,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.352174,0.333478,0.347835,340,4975,5315
+2012-11-09,Musim Dingin,November,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.361667,0.540833,0.214558,709,5283,5992
+2012-11-10,Musim Dingin,November,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.389167,0.645417,0.0578458,2090,4446,6536
+2012-11-11,Musim Dingin,November,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.420833,0.659167,0.1275,2290,4562,6852
+2012-11-12,Musim Dingin,November,Senin,Akhir Pekan,Cerah/Sedikit Berawan,0.485,0.741667,0.173517,1097,5172,6269
+2012-11-13,Musim Dingin,November,Selasa,Hari Kerja,Berkabut/Berawan,0.343333,0.662917,0.342046,327,3767,4094
+2012-11-14,Musim Dingin,November,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.289167,0.552083,0.199625,373,5122,5495
+2012-11-15,Musim Dingin,November,Kamis,Hari Kerja,Berkabut/Berawan,0.321667,0.620417,0.152987,320,5125,5445
+2012-11-16,Musim Dingin,November,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.345,0.524583,0.171025,484,5214,5698
+2012-11-17,Musim Dingin,November,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.325,0.545417,0.179729,1313,4316,5629
+2012-11-18,Musim Dingin,November,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.3425,0.692917,0.227612,922,3747,4669
+2012-11-19,Musim Dingin,November,Senin,Hari Kerja,Berkabut/Berawan,0.380833,0.623333,0.235067,449,5050,5499
+2012-11-20,Musim Dingin,November,Selasa,Hari Kerja,Berkabut/Berawan,0.374167,0.685,0.082725,534,5100,5634
+2012-11-21,Musim Dingin,November,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.353333,0.61375,0.103246,615,4531,5146
+2012-11-22,Musim Dingin,November,Kamis,Akhir Pekan,Cerah/Sedikit Berawan,0.34,0.580417,0.0528708,955,1470,2425
+2012-11-23,Musim Dingin,November,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.368333,0.56875,0.148021,1603,2307,3910
+2012-11-24,Musim Dingin,November,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.278333,0.404583,0.376871,532,1745,2277
+2012-11-25,Musim Dingin,November,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.245833,0.468333,0.1505,309,2115,2424
+2012-11-26,Musim Dingin,November,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.313333,0.535417,0.04665,337,4750,5087
+2012-11-27,Musim Dingin,November,Selasa,Hari Kerja,Berkabut/Berawan,0.291667,0.786667,0.237562,123,3836,3959
+2012-11-28,Musim Dingin,November,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.296667,0.50625,0.210821,198,5062,5260
+2012-11-29,Musim Dingin,November,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.28087,0.555652,0.115522,243,5080,5323
+2012-11-30,Musim Dingin,November,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.298333,0.649583,0.0584708,362,5306,5668
+2012-12-01,Musim Dingin,Desember,Sabtu,Akhir Pekan,Berkabut/Berawan,0.298333,0.806667,0.0597042,951,4240,5191
+2012-12-02,Musim Dingin,Desember,Minggu,Akhir Pekan,Berkabut/Berawan,0.3475,0.823333,0.124379,892,3757,4649
+2012-12-03,Musim Dingin,Desember,Senin,Hari Kerja,Cerah/Sedikit Berawan,0.4525,0.7675,0.0827208,555,5679,6234
+2012-12-04,Musim Dingin,Desember,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.475833,0.73375,0.174129,551,6055,6606
+2012-12-05,Musim Dingin,Desember,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.438333,0.485,0.324021,331,5398,5729
+2012-12-06,Musim Dingin,Desember,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.255833,0.50875,0.174754,340,5035,5375
+2012-12-07,Musim Dingin,Desember,Jumat,Hari Kerja,Berkabut/Berawan,0.320833,0.764167,0.1306,349,4659,5008
+2012-12-08,Musim Dingin,Desember,Sabtu,Akhir Pekan,Berkabut/Berawan,0.381667,0.91125,0.101379,1153,4429,5582
+2012-12-09,Musim Dingin,Desember,Minggu,Akhir Pekan,Berkabut/Berawan,0.384167,0.905417,0.157975,441,2787,3228
+2012-12-10,Musim Dingin,Desember,Senin,Hari Kerja,Berkabut/Berawan,0.435833,0.925,0.190308,329,4841,5170
+2012-12-11,Musim Dingin,Desember,Selasa,Hari Kerja,Berkabut/Berawan,0.353333,0.596667,0.296037,282,5219,5501
+2012-12-12,Musim Dingin,Desember,Rabu,Hari Kerja,Berkabut/Berawan,0.2975,0.538333,0.162937,310,5009,5319
+2012-12-13,Musim Dingin,Desember,Kamis,Hari Kerja,Cerah/Sedikit Berawan,0.295833,0.485833,0.174129,425,5107,5532
+2012-12-14,Musim Dingin,Desember,Jumat,Hari Kerja,Cerah/Sedikit Berawan,0.281667,0.642917,0.131229,429,5182,5611
+2012-12-15,Musim Dingin,Desember,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.324167,0.650417,0.10635,767,4280,5047
+2012-12-16,Musim Dingin,Desember,Minggu,Akhir Pekan,Berkabut/Berawan,0.3625,0.83875,0.100742,538,3248,3786
+2012-12-17,Musim Dingin,Desember,Senin,Hari Kerja,Berkabut/Berawan,0.393333,0.907083,0.0982583,212,4373,4585
+2012-12-18,Musim Dingin,Desember,Selasa,Hari Kerja,Cerah/Sedikit Berawan,0.410833,0.66625,0.221404,433,5124,5557
+2012-12-19,Musim Dingin,Desember,Rabu,Hari Kerja,Cerah/Sedikit Berawan,0.3325,0.625417,0.184092,333,4934,5267
+2012-12-20,Musim Dingin,Desember,Kamis,Hari Kerja,Berkabut/Berawan,0.33,0.667917,0.132463,314,3814,4128
+2012-12-21,Musim Semi,Desember,Jumat,Hari Kerja,Berkabut/Berawan,0.326667,0.556667,0.374383,221,3402,3623
+2012-12-22,Musim Semi,Desember,Sabtu,Akhir Pekan,Cerah/Sedikit Berawan,0.265833,0.44125,0.407346,205,1544,1749
+2012-12-23,Musim Semi,Desember,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.245833,0.515417,0.133083,408,1379,1787
+2012-12-24,Musim Semi,Desember,Senin,Hari Kerja,Berkabut/Berawan,0.231304,0.791304,0.0772304,174,746,920
+2012-12-25,Musim Semi,Desember,Selasa,Akhir Pekan,Berkabut/Berawan,0.291304,0.734783,0.168726,440,573,1013
+2012-12-26,Musim Semi,Desember,Rabu,Hari Kerja,Salju Ringan/Hujan Ringan,0.243333,0.823333,0.316546,9,432,441
+2012-12-27,Musim Semi,Desember,Kamis,Hari Kerja,Berkabut/Berawan,0.254167,0.652917,0.350133,247,1867,2114
+2012-12-28,Musim Semi,Desember,Jumat,Hari Kerja,Berkabut/Berawan,0.253333,0.59,0.155471,644,2451,3095
+2012-12-29,Musim Semi,Desember,Sabtu,Akhir Pekan,Berkabut/Berawan,0.253333,0.752917,0.124383,159,1182,1341
+2012-12-30,Musim Semi,Desember,Minggu,Akhir Pekan,Cerah/Sedikit Berawan,0.255833,0.483333,0.350754,364,1432,1796
+2012-12-31,Musim Semi,Desember,Senin,Hari Kerja,Berkabut/Berawan,0.215833,0.5775,0.154846,439,2290,2729
