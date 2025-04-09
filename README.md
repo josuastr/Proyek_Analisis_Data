@@ -1,5 +1,8 @@
 # Proyek Analisis Data: Bike Sharing Dataset
 
+## Preview
+![Bike Sharing Dashboard Streamlit Preview](https://github.com/josuastr/Proyek_Analisis_Data/blob/main/Preview.png)
+
 ## Setup Environment - Anaconda
 ```
 conda create --name main-ds python=3.9
@@ -20,3 +23,6 @@ pip install -r requirements.txt
 ```
 streamlit run dashboard/dashboard.py
 ```
+## Hasil Review
+berikut merupakan penilaian dari Dicoding
+![Bike Sharing Dashboard Review](https://github.com/josuastr/Proyek_Analisis_Data/blob/main/Hasil%20Review%20Proyek%20Analisis%20Data%20dengan%20Python.png)
