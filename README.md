@@ -23,6 +23,8 @@ pip install -r requirements.txt
 ```
 streamlit run dashboard/dashboard.py
 ```
+Atau bisa dengan kunjungi website ini [Project Data Analytics](https://bikesharing-dashboar.streamlit.app/)
+
 ## Hasil Review
 berikut merupakan penilaian dari Dicoding
 ![Bike Sharing Dashboard Review](https://github.com/josuastr/Proyek_Analisis_Data/blob/main/Hasil%20Review%20Proyek%20Analisis%20Data%20dengan%20Python.png)
